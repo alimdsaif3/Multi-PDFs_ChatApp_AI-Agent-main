@@ -64,4 +64,63 @@ The **Multi-PDF's Chat Agent** is a Streamlit-based web application designed for
 
 ---
 
+## ▶️ Installation
+Install Required Python Packages
+Use the following command to install all the required dependencies:
+
+pip install -r requirements.txt
+
+## Set Up Google API Key
+Obtain your Google API key from MakerSuite.
+Create a .env file in the root directory of the project with the following contents:
+
+GOOGLE_API_KEY=<your-api-key-here>
+
+## Run the Streamlit App
+Launch the application using the Streamlit CLI:
+
+streamlit run app.py
+
+### 💡 Usage Instructions
+Demo App on Streamlit Cloud
+Explore the app visually using this link:
+
+
+To Run and Implement on Your System
+Ensure Prerequisites
+
+Install all required dependencies.
+Add your Google API key to the .env file (this step is mandatory).
+Run the Application
+Execute the following command in your terminal:
+
+streamlit run app.py
+
+### Application Launch
+The app will open in your default web browser, showcasing the user interface.
+
+Upload PDF Documents
+
+Use the sidebar to upload one or more PDF files.
+Click on the "Upload your documents here and click on Process" button to process the files.
+Process and Submit
+
+After uploading, click on the Submit & Process button to begin processing.
+Ask Questions
+
+Use the chat interface to ask questions in natural language about the uploaded PDFs.
+Press Enter or click the "Ask" button to submit your queries.
+Receive Responses
+
+The app will utilize conversational AI to generate accurate, context-based responses.
+View the chatbot's responses directly in the chat interface.
+
+## 📜 License 🪪
+Distributed under the MIT License. For details, refer to the LICENSE file.
+
+## ⭐ Show Your Support
+If you like this project, give it a ⭐ on GitHub!
+
+#### **If you like this LLM Project do drop ⭐ to this repo**
+#### Follow me on [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-saif-ali-9815a774/) &nbsp; [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alimdsaif3)
 
