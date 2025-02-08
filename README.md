@@ -30,7 +30,6 @@ The **Multi-PDF's Chat Agent** is a Streamlit-based web application designed for
 4. **Similarity Matching**: Compare your question with text chunks to find the most relevant ones.
 5. **Response Generation**: Provide an accurate, contextually relevant response based on the identified chunks.
 
-![Demo Output](img/LLMframework.jpg)
 
 ---
 
